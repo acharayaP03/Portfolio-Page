@@ -3,8 +3,7 @@
       <section id="primary">
         <h3>General Information</h3>
         <p>I am not currently looking for new design work, but I am available for speaking gigs and similar engagements. If you have any questions, please don't hesitate to contact me!</p>
-        <p>Please only use phone contact for urgent inquiries. Otherwise, Twitter and email are the best way to reach me.</p>
-      </section>
+        <p>This is Just for test purpose.>
       <section id="secondary">
         <h3>Contact Details</h3>
         <ul class="contact-info">
