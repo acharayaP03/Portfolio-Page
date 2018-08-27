@@ -27,7 +27,7 @@
           </li>
           <li>
             <a href="img/PKayFunnyPic.jpg">
-              <img src="img/numbers-12.jpg" alt="">
+              <img src="img/PKayFunnyPic.jpg" alt="">
               <p>Creating shapes using repetition.</p>
             </a>
           </li>
