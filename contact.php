@@ -10,7 +10,7 @@
       <section id="secondary">
         <h3>Contact Details</h3>
         <ul class="contact-info">
-          <li class="phone"><a href="tel:01054 233">0411 054 233</a></li>
+          <li class="phone"><a href="tel:0411 054 233">0411 054 233</a></li>
           <li class="mail"><a href="mailto:acharyaP03@gamil.com">acharyaP03@gamil.com</a></li>
           <li class="twitter"><a href="http://twitter.com/intent/tweet?screen_name=acharyaP03">@acharyaP03</a></li>
         </ul>
