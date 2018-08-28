@@ -20,15 +20,15 @@
             </a>
           </li>
           <li>
-            <a href="img/numbers-09.jpg">
-              <img src="img/numbers-09.jpg" alt="">
-              <p>Drips created using Photoshop brushes.</p>
+            <a href="img/image.jpg">
+              <img src="img/image.jpg" alt="">
+              <p>Picture of Harbour Bridge from the Rocks.</p>
             </a>
           </li>
           <li>
-            <a href="img/PKayFunnyPic.jpg">
-              <img src="img/PKayFunnyPic.jpg" alt="">
-              <p>Creating shapes using repetition.</p>
+            <a href="img/sydney.jpg">
+              <img src="img/sydney.jpg" alt="">
+              <p>Beautiful city of sydney. An ariel view at Dusk.</p>
             </a>
           </li>
         </ul>
