@@ -2,7 +2,7 @@
       <section>
         <ul id="gallery">
           <li>
-            <a href="../img/numbers-01.jpg">
+            <a href="img/numbers-01.jpg">
               <img src="img/numbers-01.jpg" alt="">
               <p>Experimentation with color and texture.</p>
             </a>
