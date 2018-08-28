@@ -6,9 +6,9 @@
       </a>
       <nav>
         <ul>
-          <li><a href="index.php" >Portfolio</a></li>
+          <li><a href="index.php" class="selected">Portfolio</a></li>
           <li><a href="about.php">About</a></li>
-          <li><a href="contact.php" class="selected">Contact</a></li>
+          <li><a href="contact.php">Contact</a></li>
         </ul>
       </nav>
     </header>
